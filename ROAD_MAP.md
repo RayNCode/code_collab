@@ -9,7 +9,7 @@ ML_2_Categories --> I just tried to see what kind of categories we had in the le
 
 Next steps:
 
-Priority:
+  Priority:
 - Maybe explore other binary classifiers (as explained in the ML_2_Model towards the end).
 - Try to use hyperparameters and GradientDescent to better tune our models.
 - Create another notebook with strategies to merge and manage missing values of other csv files.
