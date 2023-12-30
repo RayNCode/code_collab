@@ -1,11 +1,15 @@
 # code_collab
 Final Projet in Machine Learning
 
+
 30-12-2023
 
 ML_1_Stat_Desc --> Descriptive stats of our variables from learn dataset.
 ML_2_Model --> I tried 2 models and compare their performance without using hyperparameters (Random Forest, Logistic Regression). Results are quite similar at this stage.
-ML_2_Categories --> I just tried to see what kind of categories we had in the learn dataset to better encode these variables.
+
+!! I can't run the notebooks in collab because the CSV is not linked to them. I don't know how to circumvent this issue.
+
+ML_3_Categories --> I just tried to see what kind of categories we had in the learn dataset to better encode these variables.
 
 Next steps:
 
