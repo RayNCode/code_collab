@@ -9,12 +9,12 @@ ML_2_Categories --> I just tried to see what kind of categories we had in the le
 
 Next steps:
 
-  Priority:
+1) Priority:
 - Maybe explore other binary classifiers (as explained in the ML_2_Model towards the end).
 - Try to use hyperparameters and GradientDescent to better tune our models.
 - Create another notebook with strategies to merge and manage missing values of other csv files.
   We can start merging one dataset at the time.
 
-  Next Level:
+2) Next Level:
 - After this, the goal would be to write a code that is as efficient as possible (meaning creating functions to declutter the code). And then start creating the best pipeline possible before feeding our model.
 - Since the code is quite repetitive between models, we should be able to automate that. It also means that we have to be cautious with the code because it will take longer to run.
