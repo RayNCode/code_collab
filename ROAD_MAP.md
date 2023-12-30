@@ -8,6 +8,7 @@ ML_2_Model --> I tried 2 models and compare their performance without using hype
 ML_2_Categories --> I just tried to see what kind of categories we had in the learn dataset to better encode these variables.
 
 Next steps:
+
   Priority:
 - Maybe explore other binary classifiers (as explained in the ML_2_Model towards the end).
 - Try to use hyperparameters and GradientDescent to better tune our models.
