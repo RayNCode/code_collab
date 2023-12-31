@@ -18,7 +18,7 @@ Next steps:
   We can start merging one dataset at the time.
 - Maybe explore other binary classifiers (as explained in the ML_2_Model towards the end)...
 - ... while using hyperparameters and GradientDescent to better tune our models. *** (see the end for guidance)
-
+- Check if we should use a specific technique to gibe more weight to the target G than B (bc we habe 61% of G and 39% of B)
 
 2) Next Level:
 - After this, the goal would be to write a code that is as efficient as possible (meaning creating functions to declutter the code). And then start creating the best pipeline possible before feeding our model.
