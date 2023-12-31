@@ -26,7 +26,7 @@ Next steps:
 
 
 
-Integrate hyperparameter selection from the start:
+***Integrate hyperparameter selection from the start:
 - Use GridSearchCV or RandomizedSearchCV with cross-validation to automatically find the best hyperparameters for your model, integrating this search into your modelling pipeline for robust evaluation and selection.
 - Evaluate systematically: Ensure that any model evaluation, including hyperparameter selection, is done using resampling techniques such as cross-validation to prevent overfitting and ensure that the model generalises well to new data.
 - Automation and consistency: Create a consistent pipeline that includes pre-processing, hyperparameter selection and model training, enabling efficient automation and reducing manual errors, while improving the reproducibility of our results.
