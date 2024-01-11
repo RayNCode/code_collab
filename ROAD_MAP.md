@@ -11,7 +11,7 @@ ML_Merged_ --> I made several attempts to see how to merge the data and handle m
 
 please don't work on these, they are just here in case we need some code for our Main_ file.
 
-
+At this point, without having run the main_ file, we are at 80% accuracy using random forest. For logistic regression in ranges from 70 to 80 depending on the dataset.
 
 Next steps:
 
