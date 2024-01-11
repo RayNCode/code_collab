@@ -16,7 +16,7 @@ At this point, without having run the main_ file, we are at 80% accuracy using r
 Next steps:
 
 1) Priority:
-- Maybe explore other binary classifiers (as explained in the ML_2_Model towards the end)...
+- Maybe explore other binary classifiers (maybe use a neural network ?)... 
 - ... while using hyperparameters and GradientDescent to better tune our models. *** (see the end for guidance)
 - Check if we should use a specific technique to give more weight to the target G than B (bc we habe 61% of B and 39% of G)
 
