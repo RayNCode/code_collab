@@ -11,7 +11,7 @@ ML_Merged_ --> I made several attempts to see how to merge the data and handle m
 
 please don't work on these, they are just here in case we need some code for our Main_ file.
 
-Final Notebook is just the model taken from the 'XGB_final_model' file but applied to test data.
+Final Notebook is just the model taken from the 'XGB_final_model' file but applied to final test data.
 
 Right now, I'm working on a V2 of this final notebook to do all the steps in one file (getting code from github, pipeline, gridsearch, xgboost, ...). To get better predictions for tonight.
 
