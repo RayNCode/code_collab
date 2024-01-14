@@ -2,7 +2,7 @@
 Final Projet in Machine Learning
 
 
-11-01-2023
+14-01-2023
 
 ML_1_Stat_Desc --> Descriptive stats of our variables from learn dataset.
 ML_2_Model --> I tried 2 models and compare their performance without using hyperparameters (Random Forest, Logistic Regression). Results are quite similar at this stage.
@@ -11,15 +11,8 @@ ML_Merged_ --> I made several attempts to see how to merge the data and handle m
 
 please don't work on these, they are just here in case we need some code for our Main_ file.
 
-At this point, without having run the main_ file, we are at 80% accuracy using random forest. For logistic regression in ranges from 70 to 80 depending on the dataset.
+Final Notebook is just the model taken from the 'XGB_final_model' file but applied to test data.
 
-Next steps:
+Right now, I'm working on a V2 of this final notebook to do all the steps in one file (getting code from github, pipeline, gridsearch, xgboost, ...). To get better predictions for tonight.
 
-1) Priority:
-- Maybe explore other binary classifiers (maybe use a neural network ?)... 
-- ... while using hyperparameters and GradientDescent to better tune our models. *** (see the end for guidance)
-- Check if we should use a specific technique to give more weight to the target G than B (bc we habe 61% of B and 39% of G)
-
-2) Next Level:
-- After this, the goal would be to write a code that is as efficient as possible (meaning creating functions to declutter the code). And then start creating the best pipeline possible before feeding our model.
-- Since the code is quite repetitive between models, we should be able to automate that. It also means that we have to be cautious with the code because it will take longer to run.
+The next stage would be to see how we can incorporate other models, bc now there is only XGBoost.
